@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "contragents",
+  "info": {
+    "singularName": "contragent",
+    "pluralName": "contragents",
+    "displayName": "Contragent"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "inn": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    }
+  }
+}
